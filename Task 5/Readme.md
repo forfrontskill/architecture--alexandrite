@@ -20,6 +20,9 @@
 
 ## UML-схема процесса Refresh-ahead
 
+![Схема](./sequence.png)
+
+
 ```plantuml
 @startuml
 title Refresh-ahead caching process for Orders table (jewelry manufacturing orders)
